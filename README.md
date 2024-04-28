@@ -1,4 +1,4 @@
-Targeted marketing - user segmentation for an online gift shop using survey data
+Targeted marketing - user segmentation for an online gift shop
 ===
 
 A popular US online gift shop wants to run a marketing campaign for their new Star Wars gadgets (T-shirts, mugs, etc.).
